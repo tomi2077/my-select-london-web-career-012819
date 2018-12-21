@@ -5,7 +5,7 @@ def my_select(array)
     if array([i]) == true
       new_collecton << array[i]
     else
-      end
+    end
     i += 1
   end
   new_collecton
