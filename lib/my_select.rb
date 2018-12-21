@@ -4,9 +4,9 @@ def my_select(array)
   while i < array.length
     if array([i]) == true
       new_collecton << array[i]
-      i += 1
     else
       end
+    i += 1
     return new_collecton
 end
     
