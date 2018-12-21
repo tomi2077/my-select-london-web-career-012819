@@ -7,6 +7,7 @@ def my_select(array)
     else
       end
     i += 1
+  
     return new_collecton
 end
     
